@@ -1,0 +1,12 @@
+alfred
+android-platform-tools
+aria2gui
+cheatsheet
+google-chrome
+iina
+iterm2
+launchrocket
+visual-studio-code
+wireshark
+xld
+xnconvert
