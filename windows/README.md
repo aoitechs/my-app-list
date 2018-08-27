@@ -22,8 +22,8 @@
 - [Xshell & Xftp](https://www.netsarang.com/download/main.html) - Secure Terminal Emulator and  Secure File Transfer Client
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间图形化分布
 
-- [TIM](https://tim.qq.com/) - 办公版 QQ
-- [WeChat](https://weixin.qq.com/) - 微信电脑版
+- [TIM](https://tim.qq.com/) - TIM 电脑版
+- [WeChat](https://pc.weixin.qq.com/) - 微信电脑版
 - [BiliBIliLive](https://live.bilibili.com/liveHime) - BiliBili 直播助手
 - [Steam](https://store.steampowered.com/about/) - 全球最大的游戏平台
 - [Battle.net](https://cn.blizzard.com/zh-cn/apps/battle.net/desktop) - 战网客户端
@@ -31,3 +31,13 @@
 - [Hearthstone Deck Tacker](https://hsdecktracker.net/download/) - 《炉石传说》的卡组记录工具
 - [UU](https://uu.163.com/) - 网易 UU，游戏加速工具
 - [SteamCleaner](https://github.com/Codeusa/SteamCleaner/releases) - Steam 和战网安装依赖清理
+
+---
+
+## 一键下载全部软件
+
+暂未完成
+
+```txt
+/download.ps1
+```
