@@ -1,6 +1,6 @@
 # Windows
 
-[Windows](#windows) / [macOS](https://github.com/aoitechs/my-app-list/tree/master/macos)
+:ballot_box_with_check: Windows / [macOS](https://github.com/aoitechs/my-app-list/tree/master/macos)
 
 ---
 
