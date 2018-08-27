@@ -1,6 +1,6 @@
 # Windows
 
-[Windows](#windows) / [macOS](https://github.com/aoitechs/my-app-list/tree/master/macos)
+:ballot_box_with_check: Windows / [macOS](https://github.com/aoitechs/my-app-list/tree/master/macos)
 
 ---
 
@@ -21,6 +21,8 @@
 - [UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/) - Hosts 修改软件
 - [Xshell & Xftp](https://www.netsarang.com/download/main.html) - Secure Terminal Emulator and  Secure File Transfer Client
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间图形化分布
+
+---
 
 - [TIM](https://tim.qq.com/) - 办公版 QQ
 - [WeChat](https://weixin.qq.com/) - 微信电脑版
