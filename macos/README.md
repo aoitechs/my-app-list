@@ -1,6 +1,6 @@
 # macOS
 
-[Windows](#windows) / [macOS](#macos)
+[Windows](https://github.com/aoitechs/my-app-list/tree/master/windows) / [macOS](#macos)
 
 ---
 
