@@ -4,6 +4,8 @@
 
 ---
 
+## 已安装软件
+
 - [BandiZip](https://cn.bandisoft.com/bandizip/dl.php?web) - 一个漂亮好用的解压缩软件 ![Freeware][Freeware Icon]
 - [Google Chrome](https://www.google.com/intl/zh-CN_ALL/chrome/) - Chrome 浏览器 ![Freeware][Freeware Icon]
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html) - 方便省心的下载软件
@@ -32,7 +34,9 @@
 - [UU](https://uu.163.com/) - 网易 UU，游戏加速工具 ![Freeware][Freeware Icon]
 - [SteamCleaner](https://github.com/Codeusa/SteamCleaner/releases) - Steam 和战网安装依赖清理 ![Freeware][Freeware Icon]
 
----
+## 其他优质软件收集
+
+- [JJdown](http://client.jijidown.com/) - BiliBili 视频下载客户端 ![Freeware][Freeware Icon]
 
 ## 下载全部软件
 
@@ -40,4 +44,7 @@
 
 ```txt
 /installation_file/
+/installation_file/other/
 ```
+
+[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
