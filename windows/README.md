@@ -23,6 +23,7 @@
 - [UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/) - Hosts 修改软件 ![Freeware][Freeware Icon]
 - [Xshell Plus](https://www.netsarang.com/download/main.html) - Secure Terminal Emulator and  Secure File Transfer Client
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间图形化分布 ![Freeware][Freeware Icon]
+- [Everything](http://www.voidtools.com/downloads/) - 绝佳的文件搜索软件 ![Freeware][Freeware Icon]
 
 - [TIM](https://tim.qq.com/) - TIM 电脑版 ![Freeware][Freeware Icon]
 - [WeChat](https://pc.weixin.qq.com/) - 微信电脑版 ![Freeware][Freeware Icon]
@@ -37,6 +38,10 @@
 ## 其他优质软件收集
 
 - [JJdown](http://client.jijidown.com/) - BiliBili 视频下载客户端 ![Freeware][Freeware Icon]
+- [foobar](https://www.foobar2000.org/download) - 最全能的音频播放 ![Freeware][Freeware Icon]
+- [XDM](http://xdman.sourceforge.net/#downloads) - 免费版的 IDM ![Freeware][Freeware Icon]
+- [Clover](http://cn.ejie.me/) - 多标签资源管理器（不过 Windows 10 即将内置多标签） ![Freeware][Freeware Icon]
+- [ShareX](https://github.com/ShareX/ShareX/releases/tag/v12.1.1) - 截屏录屏的最佳选择 ![Freeware][Freeware Icon]
 
 ## 下载全部软件
 
