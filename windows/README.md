@@ -24,6 +24,7 @@
 - [Xshell Plus](https://www.netsarang.com/download/main.html) - Secure Terminal Emulator and  Secure File Transfer Client
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间图形化分布 ![Freeware][Freeware Icon]
 - [Everything](http://www.voidtools.com/downloads/) - 绝佳的文件搜索软件 ![Freeware][Freeware Icon]
+- [TeraCopy](https://www.codesector.com/teracopy) - 系统剪贴板替换工具 ![Freeware][Freeware Icon]
 
 - [TIM](https://tim.qq.com/) - TIM 电脑版 ![Freeware][Freeware Icon]
 - [WeChat](https://pc.weixin.qq.com/) - 微信电脑版 ![Freeware][Freeware Icon]
