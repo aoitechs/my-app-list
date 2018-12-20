@@ -35,22 +35,13 @@
 - [Hearthstone Deck Tacker](https://hsdecktracker.net/download/) - 《炉石传说》的卡组记录工具 ![Freeware][Freeware Icon]
 - [UU](https://uu.163.com/) - 网易 UU，游戏加速工具 ![Freeware][Freeware Icon]
 - [SteamCleaner](https://github.com/Codeusa/SteamCleaner/releases) - Steam 和战网安装依赖清理 ![Freeware][Freeware Icon]
+- [Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) - Geforece 显卡驱动 ![Freeware][Freeware Icon]
 
 ## 其他优质软件收集
 
 - [JJdown](http://client.jijidown.com/) - BiliBili 视频下载客户端 ![Freeware][Freeware Icon]
 - [foobar](https://www.foobar2000.org/download) - 最全能的音频播放 ![Freeware][Freeware Icon]
-- [XDM](http://xdman.sourceforge.net/#downloads) - 免费版的 IDM ![Freeware][Freeware Icon]
-- [Clover](http://cn.ejie.me/) - 多标签资源管理器（不过 Windows 10 即将内置多标签） ![Freeware][Freeware Icon]
+- [XDM](http://xdman.sourceforge.net/#downloads) - 免费版的 IDM ![Freeware][Freeware Icon]=
 - [ShareX](https://github.com/ShareX/ShareX/releases/tag/v12.1.1) - 截屏录屏的最佳选择 ![Freeware][Freeware Icon]
-
-## 下载全部软件
-
-目前除了 Evernote 和 Snipaste，提供了上述所有软件的安装文件。
-
-```txt
-/installation_file/
-/installation_file/other/
-```
 
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
