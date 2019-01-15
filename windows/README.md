@@ -69,16 +69,14 @@
 
 TBD
 
-## Scoop 使用
+## chocolatey 使用
 
-### 安装 Scoop
+### 安装 chocolatey
 
-1. 打开 Powershell
+1. 以管理员权限打开 Powershell
 2. 在 PowerShell 中输入下面内容，保证允许本地脚本的执行：
-   `set-executionpolicy remotesigned -scope currentuser`
-3. 然后执行下面的命令安装 Scoop：
-   `iex (new-object net.webclient).downloadstring('https://get.scoop.sh')`
-4. 等待脚本执行完后，确认已经正确安装：
-   `scoop help`
+   `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
+3. 等待脚本执行完后，确认已经正确安装：
+   `choco`
 
 ### TBD
