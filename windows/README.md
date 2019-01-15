@@ -45,3 +45,40 @@
 - [ShareX](https://github.com/ShareX/ShareX/releases/tag/v12.1.1) - 截屏录屏的最佳选择 ![Freeware][Freeware Icon]
 
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+
+## oh-my-posh 使用
+
+### 安装 oh-my-posh
+
+1. 打开 PowerShell
+2. 安装依赖 posh-git，安装过程是可能会要求安装 NuGet，允许即可：
+   `Install-Module posh-git -Scope CurrentUser`
+3. 安装 oh-my-posh 本体：
+   `Install-Module oh-my-posh -Scope CurrentUser`
+
+### 设置自动引用模块
+
+1. 找到自动引用的脚本位置：
+   `$profile`
+   会返回一个类似 `C:\Users\Administrator\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1` 的路径
+2. 打开这个文件（如果没有就新建），在文件后加入一行引入命令：
+   `Import-Module oh-my-posh`
+3. 重新打开 PowerShell
+
+### oh-my-posh 配置
+
+TBD
+
+## Scoop 使用
+
+### 安装 Scoop
+
+1. 打开 Powershell
+2. 在 PowerShell 中输入下面内容，保证允许本地脚本的执行：
+   `set-executionpolicy remotesigned -scope currentuser`
+3. 然后执行下面的命令安装 Scoop：
+   `iex (new-object net.webclient).downloadstring('https://get.scoop.sh')`
+4. 等待脚本执行完后，确认已经正确安装：
+   `scoop help`
+
+### TBD
