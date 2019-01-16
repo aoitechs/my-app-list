@@ -6,6 +6,7 @@
 
 ## 已安装软件
 
+- [cmder](http://cmder.net/) - 最好的第三方 Windows 终端
 - [BandiZip](https://cn.bandisoft.com/bandizip/dl.php?web) - 一个漂亮好用的解压缩软件 ![Freeware][Freeware Icon]
 - [Google Chrome](https://www.google.com/intl/zh-CN_ALL/chrome/) - Chrome 浏览器 ![Freeware][Freeware Icon]
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html) - 方便省心的下载软件
@@ -45,29 +46,6 @@
 - [ShareX](https://github.com/ShareX/ShareX/releases/tag/v12.1.1) - 截屏录屏的最佳选择 ![Freeware][Freeware Icon]
 
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
-
-## oh-my-posh 使用
-
-### 安装 oh-my-posh
-
-1. 打开 PowerShell
-2. 安装依赖 posh-git，安装过程是可能会要求安装 NuGet，允许即可：
-   `Install-Module posh-git -Scope CurrentUser`
-3. 安装 oh-my-posh 本体：
-   `Install-Module oh-my-posh -Scope CurrentUser`
-
-### 设置自动引用模块
-
-1. 找到自动引用的脚本位置：
-   `$profile`
-   会返回一个类似 `C:\Users\Administrator\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1` 的路径
-2. 打开这个文件（如果没有就新建），在文件后加入一行引入命令：
-   `Import-Module oh-my-posh`
-3. 重新打开 PowerShell
-
-### oh-my-posh 配置
-
-TBD
 
 ## chocolatey 使用
 
