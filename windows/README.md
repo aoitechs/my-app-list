@@ -6,12 +6,11 @@
 
 ## 已安装软件
 
-- [cmder](http://cmder.net/) - 最好的第三方 Windows 终端
+- [cmder](http://cmder.net/) - 最好的第三方 Windows 终端 ![Freeware][Freeware Icon]
 - [BandiZip](https://cn.bandisoft.com/bandizip/dl.php?web) - 一个漂亮好用的解压缩软件 ![Freeware][Freeware Icon]
 - [Google Chrome](https://www.google.com/intl/zh-CN_ALL/chrome/) - Chrome 浏览器 ![Freeware][Freeware Icon]
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html) - 方便省心的下载软件
 - [PotPlayer](https://potplayer.daum.net/) - 心目中最好用的播放器 ![Freeware][Freeware Icon]
-- [Sandboxie](https://www.sandboxie.com/) - 沙箱软件
 - [Snipaste](https://zh.snipaste.com/) - 方便好用的截图、贴图软件 ![Freeware][Freeware Icon]
 - [Huorong](https://www.huorong.cn/) - 火绒安全软件 ![Freeware][Freeware Icon]
 - [Sunlogin](https://sunlogin.oray.com/zh_CN/download) - 向日葵远程桌面工具 ![Freeware][Freeware Icon]
@@ -22,10 +21,13 @@
 - [Speedpan](https://www.speedpan.com/) - 百度云盘下载工具 ![Freeware][Freeware Icon]
 - [ShadowSocksR C#](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) - 看看外面的世界 ![Freeware][Freeware Icon]
 - [UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/) - Hosts 修改软件 ![Freeware][Freeware Icon]
-- [Xshell Plus](https://www.netsarang.com/download/main.html) - Secure Terminal Emulator and  Secure File Transfer Client
+- [Xshell Plus](https://www.netsarang.com/download/main.html) - Secure Terminal Emulator and Secure File Transfer Client
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间图形化分布 ![Freeware][Freeware Icon]
 - [Everything](http://www.voidtools.com/downloads/) - 绝佳的文件搜索软件 ![Freeware][Freeware Icon]
-- [TeraCopy](https://www.codesector.com/teracopy) - 系统剪贴板替换工具 ![Freeware][Freeware Icon]
+- [Icecream PDF Editor](https://icecreamapps.com/PDF-Editor/) - 麻雀虽小五脏俱全的 PDF 阅读器 ![Freeware][Freeware Icon]
+- [Office 365](https://portal.office.com/OLS/MySoftware.aspx) - Microsoft Office 365
+- [Git](https://git-scm.com/) - Git ![Freeware][Freeware Icon]
+- [GitHub Desktop](https://desktop.github.com/) - GitHub 图形界面客户端 ![Freeware][Freeware Icon]
 
 - [TIM](https://tim.qq.com/) - TIM 电脑版 ![Freeware][Freeware Icon]
 - [WeChat](https://pc.weixin.qq.com/) - 微信电脑版 ![Freeware][Freeware Icon]
@@ -42,8 +44,13 @@
 
 - [JJdown](http://client.jijidown.com/) - BiliBili 视频下载客户端 ![Freeware][Freeware Icon]
 - [foobar](https://www.foobar2000.org/download) - 最全能的音频播放 ![Freeware][Freeware Icon]
-- [XDM](http://xdman.sourceforge.net/#downloads) - 免费版的 IDM ![Freeware][Freeware Icon]=
+- [XDM](http://xdman.sourceforge.net/#downloads) - 免费版的 IDM ![Freeware][Freeware Icon]
 - [ShareX](https://github.com/ShareX/ShareX/releases/tag/v12.1.1) - 截屏录屏的最佳选择 ![Freeware][Freeware Icon]
+- [TeraCopy](https://www.codesector.com/teracopy) - 系统剪贴板替换工具 ![Freeware][Freeware Icon]
+- [7-Zip](https://www.7-zip.org/) - 一个全能的解压缩软件 ![Freeware][Freeware Icon]
+- [Sandboxie](https://www.sandboxie.com/) - 沙箱软件
+- [GitKraken](https://www.gitkraken.com/) - 简洁美观优雅的 Git 客户端 ![Freeware][Freeware Icon]
+- [FreeOffice](https://www.freeoffice.com/zh/) - 免费的 Office 办公套件 ![Freeware][Freeware Icon]
 
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
 
