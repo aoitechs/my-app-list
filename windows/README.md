@@ -28,6 +28,7 @@
 - [Office 365](https://portal.office.com/OLS/MySoftware.aspx) - Microsoft Office 365
 - [Git](https://git-scm.com/) - Git ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://desktop.github.com/) - GitHub 图形界面客户端 ![Freeware][Freeware Icon]
+- [Quicker](https://getquicker.net/) - 可拓展的快捷操作面板 ![Freeware][Freeware Icon]
 
 - [TIM](https://tim.qq.com/) - TIM 电脑版 ![Freeware][Freeware Icon]
 - [WeChat](https://pc.weixin.qq.com/) - 微信电脑版 ![Freeware][Freeware Icon]
