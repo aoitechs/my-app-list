@@ -55,15 +55,3 @@
 - [FreeOffice](https://www.freeoffice.com/zh/) - 免费的 Office 办公套件 ![Freeware][Freeware Icon]
 
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
-
-## chocolatey 使用
-
-### 安装 chocolatey
-
-1. 以管理员权限打开 Powershell
-2. 在 PowerShell 中输入下面内容，保证允许本地脚本的执行：
-   `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
-3. 等待脚本执行完后，确认已经正确安装：
-   `choco`
-
-### TBD
