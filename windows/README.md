@@ -53,5 +53,6 @@
 - [Sandboxie](https://www.sandboxie.com/) - 沙箱软件
 - [GitKraken](https://www.gitkraken.com/) - 简洁美观优雅的 Git 客户端 ![Freeware][Freeware Icon]
 - [FreeOffice](https://www.freeoffice.com/zh/) - 免费的 Office 办公套件 ![Freeware][Freeware Icon]
+- [GIMP](https://www.gimp.org/downloads/) - 全能且开源的图像处理软件 ![Freeware][Freeware Icon]
 
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
